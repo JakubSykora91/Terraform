@@ -1,0 +1,5 @@
+#Terraform first deployment
+# IP 167.9.128.173
+# https://cloud.digitalocean.com/projects/9d93f86a-8b84-4135-b9d4-484804e39ecf/resources?dropletIsCreating=true&i=5b8181
+
+
