@@ -1,1 +1,2 @@
 This is my tst file to merge configuration
+This is next line.
