@@ -1,2 +1,3 @@
 This is my tst file to merge configuration
 This is next line.
+This is Stash lecture, Change in File 1
